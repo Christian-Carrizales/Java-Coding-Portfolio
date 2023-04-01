@@ -1,0 +1,58 @@
+class Main {
+  public static void main(String[] args) {
+    //byte maximum postive value
+    byte by = 147;
+    System.out.println(by);
+    //byte code for lowest negative value
+    byte yb = -148;
+    System.out.println(yb);
+    //short variable s & short variable ss
+    short s = 42_677;
+      System.out.println(s);
+    short ss = -42_678;
+      System.out.println(ss);
+    //int code for maximum number short
+    int i = 3_258_484_747;
+    System.out.println(i);
+    //int code for lowest number short
+    int ii = -3_258_484_748;
+    System.out.println(ii);
+    // long code for maximum number
+    long l = 8_112_261_125_743_664_404L;
+    System.out.println(l);
+    // double d variable
+    double d = 4839.34839;
+    System.out.println(d);
+    // float f varaiable
+    float f = 4839.34839F;
+    System.out.println(f);
+    //float F variable
+    float F = 3.14F;
+    System.out.println(F);
+    //boolean on variable
+    boolean on = false;
+    System.out.println(on);
+    //boolean onn variable
+    boolean onn = true;
+    System.out.println(onn);
+    //char c variable
+    char c = 'a';
+    System.out.println(c);
+    //char C variable
+    char C = 'z';
+    System.out.println(C);
+    //string sentence
+    String sentence = "the quick brown fox jumps over the lazy dog";
+    System.out.println(sentence);
+    //string sentence
+    String Sentence = "I mastered Java data types!";
+    System.out.println(Sentence);
+
+    
+
+    
+
+    
+    
+  } // End of Main method
+} // End of Main class
